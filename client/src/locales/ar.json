@@ -1,0 +1,159 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "fleet": "المجموعة",
+    "approach": "نهجنا",
+    "contact": "تواصل",
+    "discover": "اكتشف المجموعة",
+    "skipToContent": "تخطي إلى المحتوى",
+    "brand": "كار رنتال",
+    "openMenu": "فتح القائمة",
+    "closeMenu": "إغلاق القائمة",
+    "language": "اللغة"
+  },
+  "common": {
+    "backToHome": "العودة إلى الصفحة الرئيسية",
+    "backToFleet": "العودة إلى المجموعة",
+    "all": "الكل",
+    "allCities": "جميع المدن",
+    "from": "من",
+    "to": "إلى",
+    "available": "متاح",
+    "unavailable": "غير متاح",
+    "for": "لـ",
+    "seeVehicle": "عرض السيارة",
+    "viewAllVehicles": "عرض كل السيارات",
+    "resetFilters": "مسح الفلاتر",
+    "reinitializeFilters": "إعادة ضبط الفلاتر",
+    "day": "يوم",
+    "days": "أيام",
+    "perDay": "في اليوم",
+    "emptyState": "لا توجد سيارات تطابق هذا الاختيار.",
+    "backToTop": "العودة إلى الأعلى",
+    "allRights": "جميع الحقوق محفوظة.",
+    "seats": "مقاعد"
+  },
+  "home": {
+    "eyebrow": "تأجير السيارات · CarRental",
+    "title": "الطريق",
+    "titleAccent": "مملوك لك.",
+    "description": "استأجر سيارة استثنائية واستمتع بخدمة مصممة لتجعلك تستمتع بكل كيلومتر.",
+    "cta": "استكشف الاختيارات",
+    "featuredTitle": "نماذج تحمل شخصية.",
+    "featuredIntro": "مجموعة سيارات لكل أسلوب سفر.",
+    "categories": "وفقًا لذوقك",
+    "categoriesTitle": "ابحث عن أسلوب قيادتك.",
+    "categoriesDescription": "اختر الفئة المناسبة لك لتصفية مجموعتنا.",
+    "servicesEyebrow": "روح CarRental",
+    "servicesTitle": "الخدمة أولاً.",
+    "servicesDescription": "جودة الرحلة تظهر في التفاصيل. نحن نضمن أن تكون تجربتك سهلة ومريحة وهادئة.",
+    "servicesCta": "اعرف المزيد",
+    "testimonialsTitle": "تبدأ الرحلة بتجربة رائعة.",
+    "testimonialsNote": "شهادات تجريبية",
+    "ctaBannerTitle": "جاهز لبدء الطريق؟",
+    "ctaBannerDescription": "استكشف مجموعة مصممة لتجعل كل رحلة لا تُنسى.",
+    "ctaBannerButton": "عرض السيارات",
+    "searchHeading": "ابحث عن سيارتك",
+    "searchSubtitle": "توفر تجريبي",
+    "searchCityLabel": "مدينة الاستلام",
+    "searchPickupLabel": "تاريخ الاستلام",
+    "searchReturnLabel": "تاريخ الإرجاع",
+    "searchError": "يجب أن يكون تاريخ الإرجاع بعد تاريخ الاستلام.",
+    "searchButton": "بحث",
+    "discoverFleet": "اكتشف المجموعة",
+    "locations": {
+      "Paris": "باريس",
+      "Nice": "نيص",
+      "Lyon": "ليون",
+      "Bordeaux": "بوردو"
+    }
+  },
+  "cars": {
+    "pageTitle": "اعثر على السيارة المناسبة لك.",
+    "pageSubtitle": "استكشف مجموعتنا وقم بتضييق البحث حسب المدينة والفئة والميزانية والتوفر.",
+    "filterTitle": "ضبط البحث",
+    "city": "المدينة",
+    "brand": "الماركة",
+    "category": "الفئة",
+    "availability": "التوفر",
+    "budget": "الميزانية القصوى / يوم",
+    "sortBy": "ترتيب حسب",
+    "period": "الفترة المفضلة:",
+    "placeholderCity": "مثل باريس",
+    "allBrands": "جميع الماركات",
+    "allCategories": "جميع الفئات",
+    "allVehicles": "جميع السيارات",
+    "priceHint": "الأسعار المعروضة في اليوم باليورو.",
+    "recommended": "موصى به",
+    "priceAsc": "السعر من الأقل إلى الأعلى",
+    "priceDesc": "السعر من الأعلى إلى الأقل",
+    "newest": "الأحدث",
+    "brandSort": "الماركة من أ إلى ي",
+    "vehiclesCount_one": "{{count}} سيارة",
+    "vehiclesCount_other": "{{count}} سيارات",
+    "noResults": "لا توجد سيارات تطابق هذه الفلاتر.",
+    "noResultsDescription": "قم بتعديل البحث أو إعادة ضبط الفلاتر.",
+    "demoPeriodNote": "التوفر معروض لأغراض العرض فقط؛ سيتم تأكيده عند الحجز."
+  },
+  "carDetail": {
+    "backToFleet": "العودة إلى المجموعة",
+    "demoNote": "صور توضيحية؛ سيتم تأكيد السيارة والمعدات النهائية أثناء الحجز.",
+    "available": "متاح",
+    "unavailable": "غير متاح",
+    "estimate": "قدّر استئجارك.",
+    "estimateDescription": "اختر تواريخك لحساب المبلغ التقريبي للإيجار.",
+    "estimateHint": "محاكاة فقط: لا يتم تنفيذ حجز فعلي أو التحقق من التوفر في هذه المرحلة.",
+    "bookingTitle": "تواريخ الإيجار",
+    "pickupDate": "تاريخ الاستلام",
+    "returnDate": "تاريخ الإرجاع",
+    "selectDates": "اختر التاريخين",
+    "daysLabel_one": "{{count}} يوم إيجار",
+    "daysLabel_other": "{{count}} أيام إيجار",
+    "simulate": "محاكاة طلب",
+    "vehicleUnavailable": "السيارة غير متاحة",
+    "bookingError": "اختر تاريخ إرجاع بعد تاريخ الاستلام.",
+    "bookingUnavailableError": "هذه السيارة غير متاحة حاليًا.",
+    "bookingReady": "المحاكاة جاهزة",
+    "bookingDemoText": "لم يتم إرسال هذا الطلب ولا يُعد حجزًا مؤكداً.",
+    "compareTitle": "هل تريد مقارنة الطرازات؟",
+    "compareDescription": "استعرض مرة أخرى مجموعتنا التجريبية بالكامل.",
+    "compareButton": "العودة إلى المجموعة"
+  },
+  "notFound": {
+    "error": "خطأ 404",
+    "title": "هذه الصفحة غير موجودة.",
+    "description": "ربما تم نقل الصفحة التي تبحث عنها.",
+    "button": "العودة إلى الرئيسية"
+  },
+  "benefits": [
+    {
+      "title": "اختيار صارم",
+      "description": "سيارات حديثة مختارة لراحتها وشخصيتها وموثوقيتها."
+    },
+    {
+      "title": "خدمة متأنية",
+      "description": "فريق متاح قبل رحلتك وأثناءها وبعدها."
+    },
+    {
+      "title": "حرية الاختيار",
+      "description": "شروط حجز واضحة وخدمة استلام مخصصة لرحلتك."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "كاميلي د.",
+      "city": "باريس",
+      "quote": "كان الحجز بسيطًا والسيارة جاهزة بشكل مثالي. تجربة ممتازة من البداية إلى النهاية."
+    },
+    {
+      "name": "توماس ر.",
+      "city": "ليون",
+      "quote": "استقبال دافئ وسيارة مثالية وفريق سريع الاستجابة. سأحجز مرة أخرى بلا تردد."
+    },
+    {
+      "name": "ليا م.",
+      "city": "بوردو",
+      "quote": "كل شيء كان سلسًا ومطابقًا لتوقعاتي. مستوى الخدمة فعلاً يغيّر الأمور."
+    }
+  ]
+}

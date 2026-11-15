@@ -1,0 +1,159 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "fleet": "La flotte",
+    "approach": "Notre approche",
+    "contact": "Contact",
+    "discover": "Découvrir la flotte",
+    "skipToContent": "Passer au contenu",
+    "brand": "CARRENTAL",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "language": "Langue"
+  },
+  "common": {
+    "backToHome": "Retour à l'accueil",
+    "backToFleet": "Retour à la flotte",
+    "all": "Tous",
+    "allCities": "Toutes les villes",
+    "from": "du",
+    "to": "au",
+    "available": "Disponible",
+    "unavailable": "Indisponible",
+    "for": "pour",
+    "seeVehicle": "Voir le véhicule",
+    "viewAllVehicles": "Voir toute la sélection",
+    "resetFilters": "Effacer les filtres",
+    "reinitializeFilters": "Réinitialiser les filtres",
+    "day": "jour",
+    "days": "jours",
+    "perDay": "par jour",
+    "emptyState": "Aucun véhicule ne correspond à cette sélection.",
+    "backToTop": "Retour en haut",
+    "allRights": "Tous droits réservés.",
+    "seats": "places"
+  },
+  "home": {
+    "eyebrow": "Location automobile · CarRental",
+    "title": "La route",
+    "titleAccent": "vous appartient.",
+    "description": "Louez une voiture d’exception et profitez d’un service pensé pour vous laisser savourer chaque kilomètre.",
+    "cta": "Explorer la sélection",
+    "featuredTitle": "Des modèles qui ont du caractère.",
+    "featuredIntro": "Une sélection de véhicules pour chaque façon de voyager.",
+    "categories": "Selon vos envies",
+    "categoriesTitle": "Trouvez votre style de conduite.",
+    "categoriesDescription": "Choisissez la catégorie qui vous ressemble pour filtrer notre sélection.",
+    "servicesEyebrow": "L’esprit CarRental",
+    "servicesTitle": "Le service avant tout.",
+    "servicesDescription": "La qualité d’un voyage se joue aussi dans les détails. Nous veillons à ce que votre expérience soit simple, attentive et sereine.",
+    "servicesCta": "En savoir plus",
+    "testimonialsTitle": "Le voyage commence par une bonne expérience.",
+    "testimonialsNote": "Témoignages de démonstration",
+    "ctaBannerTitle": "Prêt à prendre la route ?",
+    "ctaBannerDescription": "Explorez une sélection pensée pour rendre chaque trajet mémorable.",
+    "ctaBannerButton": "Voir les véhicules",
+    "searchHeading": "Trouvez votre voiture",
+    "searchSubtitle": "Disponibilités de démonstration",
+    "searchCityLabel": "Ville de prise en charge",
+    "searchPickupLabel": "Date de départ",
+    "searchReturnLabel": "Date de retour",
+    "searchError": "La date de retour doit être après la date de départ.",
+    "searchButton": "Rechercher",
+    "discoverFleet": "Découvrir la flotte",
+    "locations": {
+      "Paris": "Paris",
+      "Nice": "Nice",
+      "Lyon": "Lyon",
+      "Bordeaux": "Bordeaux"
+    }
+  },
+  "cars": {
+    "pageTitle": "Trouvez la voiture qui vous ressemble.",
+    "pageSubtitle": "Explorez notre sélection et affinez votre recherche selon la ville, la catégorie, le budget et la disponibilité.",
+    "filterTitle": "Affiner votre recherche",
+    "city": "Ville",
+    "brand": "Marque",
+    "category": "Catégorie",
+    "availability": "Disponibilité",
+    "budget": "Budget maximum / jour",
+    "sortBy": "Trier par",
+    "period": "Période souhaitée :",
+    "placeholderCity": "Ex. Paris",
+    "allBrands": "Toutes les marques",
+    "allCategories": "Toutes les catégories",
+    "allVehicles": "Tous les véhicules",
+    "priceHint": "Prix affichés par jour, en euros.",
+    "recommended": "Recommandés",
+    "priceAsc": "Prix croissant",
+    "priceDesc": "Prix décroissant",
+    "newest": "Plus récents",
+    "brandSort": "Marque A à Z",
+    "vehiclesCount_one": "{{count}} véhicule",
+    "vehiclesCount_other": "{{count}} véhicules",
+    "noResults": "Aucun véhicule ne correspond à ces filtres.",
+    "noResultsDescription": "Modifiez votre recherche ou réinitialisez les filtres.",
+    "demoPeriodNote": "Disponibilités affichées à titre de démonstration; elles seront confirmées lors de la réservation."
+  },
+  "carDetail": {
+    "backToFleet": "Retour à la flotte",
+    "demoNote": "Visuels de démonstration; le véhicule et ses équipements définitifs seront confirmés lors de la réservation.",
+    "available": "Disponible",
+    "unavailable": "Indisponible",
+    "estimate": "Estimez votre location.",
+    "estimateDescription": "Choisissez vos dates pour calculer le montant estimatif de la location.",
+    "estimateHint": "Simulation uniquement : aucune réservation réelle ni vérification de disponibilité n’est effectuée à cette étape.",
+    "bookingTitle": "Dates de location",
+    "pickupDate": "Date de départ",
+    "returnDate": "Date de retour",
+    "selectDates": "Sélectionnez vos dates",
+    "daysLabel_one": "{{count}} jour de location",
+    "daysLabel_other": "{{count}} jours de location",
+    "simulate": "Simuler une demande",
+    "vehicleUnavailable": "Véhicule indisponible",
+    "bookingError": "Choisissez une date de retour après le départ.",
+    "bookingUnavailableError": "Ce véhicule est actuellement indisponible.",
+    "bookingReady": "Simulation prête",
+    "bookingDemoText": "Cette demande n’a pas été envoyée et ne constitue pas une réservation confirmée.",
+    "compareTitle": "Vous souhaitez comparer les modèles ?",
+    "compareDescription": "Parcourez à nouveau toute notre sélection de démonstration.",
+    "compareButton": "Retour à la flotte"
+  },
+  "notFound": {
+    "error": "Erreur 404",
+    "title": "Cette page n’existe pas.",
+    "description": "La page recherchée a peut-être été déplacée.",
+    "button": "Retour à l’accueil"
+  },
+  "benefits": [
+    {
+      "title": "Une sélection exigeante",
+      "description": "Des véhicules récents, choisis pour leur confort, leur caractère et leur fiabilité."
+    },
+    {
+      "title": "Un service attentif",
+      "description": "Une équipe disponible pour vous accompagner avant, pendant et après votre trajet."
+    },
+    {
+      "title": "La liberté de choisir",
+      "description": "Des conditions de réservation claires et une prise en charge adaptée à votre voyage."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Camille D.",
+      "city": "Paris",
+      "quote": "La réservation était simple et la voiture parfaitement préparée. Une très belle expérience du début à la fin."
+    },
+    {
+      "name": "Thomas R.",
+      "city": "Lyon",
+      "quote": "Un accueil chaleureux, un véhicule impeccable et une équipe réactive. Je réserverai à nouveau sans hésiter."
+    },
+    {
+      "name": "Léa M.",
+      "city": "Bordeaux",
+      "quote": "Tout était fluide et conforme à mes attentes. Le niveau de service fait vraiment la différence."
+    }
+  ]
+}

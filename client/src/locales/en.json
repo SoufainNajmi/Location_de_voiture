@@ -1,0 +1,159 @@
+{
+  "nav": {
+    "home": "Home",
+    "fleet": "Fleet",
+    "approach": "Our approach",
+    "contact": "Contact",
+    "discover": "Discover the fleet",
+    "skipToContent": "Skip to content",
+    "brand": "CARRENTAL",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "language": "Language"
+  },
+  "common": {
+    "backToHome": "Back to home",
+    "backToFleet": "Back to fleet",
+    "all": "All",
+    "allCities": "All cities",
+    "from": "from",
+    "to": "to",
+    "available": "Available",
+    "unavailable": "Unavailable",
+    "for": "for",
+    "seeVehicle": "View vehicle",
+    "viewAllVehicles": "View all vehicles",
+    "resetFilters": "Clear filters",
+    "reinitializeFilters": "Reset filters",
+    "day": "day",
+    "days": "days",
+    "perDay": "per day",
+    "emptyState": "No vehicle matches this selection.",
+    "backToTop": "Back to top",
+    "allRights": "All rights reserved.",
+    "seats": "seats"
+  },
+  "home": {
+    "eyebrow": "Luxury car rental · CarRental",
+    "title": "The road",
+    "titleAccent": "is yours.",
+    "description": "Rent an exceptional car and enjoy a service designed to let you savor every mile.",
+    "cta": "Explore the selection",
+    "featuredTitle": "Models with character.",
+    "featuredIntro": "A selection of vehicles for every way of travelling.",
+    "categories": "By your mood",
+    "categoriesTitle": "Find your driving style.",
+    "categoriesDescription": "Choose the category that matches you to filter our collection.",
+    "servicesEyebrow": "The CarRental spirit",
+    "servicesTitle": "Service first.",
+    "servicesDescription": "The quality of a trip is all in the details. We ensure your experience is simple, attentive, and calm.",
+    "servicesCta": "Learn more",
+    "testimonialsTitle": "The journey starts with a great experience.",
+    "testimonialsNote": "Demo testimonials",
+    "ctaBannerTitle": "Ready to hit the road?",
+    "ctaBannerDescription": "Explore a selection designed to make every trip memorable.",
+    "ctaBannerButton": "See vehicles",
+    "searchHeading": "Find your car",
+    "searchSubtitle": "Demo availability",
+    "searchCityLabel": "Pickup city",
+    "searchPickupLabel": "Pickup date",
+    "searchReturnLabel": "Return date",
+    "searchError": "The return date must be after the pickup date.",
+    "searchButton": "Search",
+    "discoverFleet": "Discover the fleet",
+    "locations": {
+      "Paris": "Paris",
+      "Nice": "Nice",
+      "Lyon": "Lyon",
+      "Bordeaux": "Bordeaux"
+    }
+  },
+  "cars": {
+    "pageTitle": "Find the car that suits you.",
+    "pageSubtitle": "Explore our collection and refine your search by city, category, budget, and availability.",
+    "filterTitle": "Refine your search",
+    "city": "City",
+    "brand": "Brand",
+    "category": "Category",
+    "availability": "Availability",
+    "budget": "Maximum budget / day",
+    "sortBy": "Sort by",
+    "period": "Preferred period:",
+    "placeholderCity": "E.g. Paris",
+    "allBrands": "All brands",
+    "allCategories": "All categories",
+    "allVehicles": "All vehicles",
+    "priceHint": "Prices shown per day in euros.",
+    "recommended": "Recommended",
+    "priceAsc": "Price: low to high",
+    "priceDesc": "Price: high to low",
+    "newest": "Newest",
+    "brandSort": "Brand A to Z",
+    "vehiclesCount_one": "{{count}} vehicle",
+    "vehiclesCount_other": "{{count}} vehicles",
+    "noResults": "No vehicle matches these filters.",
+    "noResultsDescription": "Modify your search or reset the filters.",
+    "demoPeriodNote": "Availability shown for demonstration only; it will be confirmed when booking."
+  },
+  "carDetail": {
+    "backToFleet": "Back to fleet",
+    "demoNote": "Demo visuals; the final vehicle and equipment will be confirmed during booking.",
+    "available": "Available",
+    "unavailable": "Unavailable",
+    "estimate": "Estimate your rental.",
+    "estimateDescription": "Choose your dates to calculate the estimated rental amount.",
+    "estimateHint": "Simulation only: no real booking or availability check is performed at this stage.",
+    "bookingTitle": "Rental dates",
+    "pickupDate": "Pickup date",
+    "returnDate": "Return date",
+    "selectDates": "Select dates",
+    "daysLabel_one": "{{count}} day of rental",
+    "daysLabel_other": "{{count}} days of rental",
+    "simulate": "Simulate a request",
+    "vehicleUnavailable": "Vehicle unavailable",
+    "bookingError": "Select a return date after the pickup date.",
+    "bookingUnavailableError": "This vehicle is currently unavailable.",
+    "bookingReady": "Simulation ready",
+    "bookingDemoText": "This request has not been submitted and does not count as a confirmed booking.",
+    "compareTitle": "Want to compare models?",
+    "compareDescription": "Browse our full demo selection again.",
+    "compareButton": "Back to fleet"
+  },
+  "notFound": {
+    "error": "404 Error",
+    "title": "This page does not exist.",
+    "description": "The page you are looking for may have moved.",
+    "button": "Back to home"
+  },
+  "benefits": [
+    {
+      "title": "A demanding selection",
+      "description": "Recent vehicles chosen for their comfort, character, and reliability."
+    },
+    {
+      "title": "Attentive service",
+      "description": "A team available before, during, and after your trip."
+    },
+    {
+      "title": "Freedom to choose",
+      "description": "Clear booking conditions and a pickup service tailored to your journey."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Camille D.",
+      "city": "Paris",
+      "quote": "The booking was simple and the car was perfectly prepared. A truly excellent experience from start to finish."
+    },
+    {
+      "name": "Thomas R.",
+      "city": "Lyon",
+      "quote": "Warm welcome, immaculate vehicle, and responsive team. I will definitely book again."
+    },
+    {
+      "name": "Léa M.",
+      "city": "Bordeaux",
+      "quote": "Everything was smooth and met my expectations. The level of service really makes the difference."
+    }
+  ]
+}
